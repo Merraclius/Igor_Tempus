@@ -1,0 +1,284 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Khaimera_Skeleton"
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_9"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_8"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_7"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_6"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_5"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_4"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_33"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_3"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_2"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_16"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_155"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_154"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_153"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_152"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_151"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_150"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_15"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_149"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_148"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_147"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_146"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_145"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_144"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_143"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_142"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_14"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_13"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_12"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_11"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_10"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_1"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_0"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_9"
+      SocketName="FX_Ult_Cast"
+      BoneName="root"
+      RelativeLocation=(X=0.004867,Y=146.434143,Z=104.905228)
+      RelativeRotation=(Pitch=69.999733,Yaw=89.998009,Roll=0.000050)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_8"
+      SocketName="FX_Ult_Blast"
+      BoneName="root"
+      RelativeLocation=(X=2.082321,Y=169.939606,Z=204.587143)
+      RelativeRotation=(Pitch=0.000000,Yaw=89.999817,Roll=0.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_7"
+      SocketName="FX_CoreTrail_01"
+      BoneName="spine_03"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_6"
+      SocketName="FX_LegTrail_L_01"
+      BoneName="foot_l"
+      RelativeRotation=(Pitch=-0.001824,Yaw=179.999893,Roll=90.000053)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_5"
+      SocketName="FX_LegTrail_R_01"
+      BoneName="foot_r"
+      RelativeRotation=(Pitch=0.000014,Yaw=-0.000010,Roll=89.998512)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_4"
+      SocketName="FX_Leap_AOE"
+      BoneName="root"
+      RelativeLocation=(X=-0.001114,Y=144.621552,Z=0.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_33"
+      SocketName="Eyes_Position"
+      BoneName="head"
+      RelativeLocation=(X=3.055586,Y=8.097279,Z=0.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_3"
+      SocketName="Toe_R"
+      BoneName="ball_r"
+      RelativeLocation=(X=0.000001,Y=-1.303353,Z=-0.000040)
+      RelativeRotation=(Pitch=0.002274,Yaw=-179.999939,Roll=-89.999817)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_2"
+      SocketName="Toe_L"
+      BoneName="ball_l"
+      RelativeLocation=(X=0.042560,Y=1.294128,Z=-0.000015)
+      RelativeRotation=(Pitch=0.000014,Yaw=-0.000001,Roll=-90.000008)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_16"
+      SocketName="HealthBar"
+      BoneName="root"
+      RelativeLocation=(X=0.000000,Y=-0.000702,Z=166.151627)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_155"
+      SocketName="Status"
+      BoneName="spine_03"
+      RelativeLocation=(X=18.973183,Y=-10.452972,Z=0.001436)
+      RelativeRotation=(Pitch=0.000738,Yaw=-89.998192,Roll=89.997986)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_154"
+      SocketName="FX_Trail_L_01"
+      BoneName="weapon_l"
+      RelativeLocation=(X=0.000000,Y=33.251022,Z=-3.299995)
+      RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_153"
+      SocketName="FX_Trail_R_01"
+      BoneName="weapon_r"
+      RelativeLocation=(X=0.000000,Y=-33.000000,Z=3.300000)
+      RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_152"
+      SocketName="FX_Trail_L_02"
+      BoneName="weapon_l"
+      RelativeLocation=(X=0.000000,Y=99.000000,Z=-18.500000)
+      RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_151"
+      SocketName="FX_Trail_R_02"
+      BoneName="weapon_r"
+      RelativeLocation=(X=0.000000,Y=-98.000000,Z=18.500000)
+      RelativeRotation=(Pitch=0.000068,Yaw=-89.999809,Roll=-89.998962)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_150"
+      SocketName="Aim_Target"
+      BoneName="spine_03"
+      RelativeLocation=(X=-10.256015,Y=15.931289,Z=0.000633)
+      RelativeRotation=(Pitch=0.001011,Yaw=89.998322,Roll=-89.998055)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_15"
+      SocketName="HoverAttachPoint"
+      BoneName="root"
+      RelativeLocation=(X=0.000000,Y=-0.000702,Z=166.151627)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_149"
+      SocketName="Chest"
+      BoneName="spine_03"
+      RelativeLocation=(X=3.887815,Y=15.930880,Z=0.000230)
+      RelativeRotation=(Pitch=0.001011,Yaw=89.998322,Roll=-89.998055)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_148"
+      SocketName="Impact"
+      BoneName="spine_03"
+      RelativeLocation=(X=-1.868311,Y=14.903470,Z=0.001301)
+      RelativeRotation=(Pitch=0.001011,Yaw=89.998322,Roll=-89.998055)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_147"
+      SocketName="FX_Head"
+      BoneName="head"
+      RelativeLocation=(X=4.454239,Y=5.494304,Z=0.000030)
+      RelativeRotation=(Pitch=0.000000,Yaw=-0.000013,Roll=89.999489)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_146"
+      SocketName="Foot_R"
+      BoneName="foot_r"
+      RelativeLocation=(X=13.284063,Y=0.000000,Z=-0.000141)
+      RelativeRotation=(Pitch=-0.000710,Yaw=-89.999481,Roll=-89.999229)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_145"
+      SocketName="Foot_L"
+      BoneName="foot_l"
+      RelativeLocation=(X=-13.332403,Y=-0.000000,Z=0.000004)
+      RelativeRotation=(Pitch=0.000738,Yaw=89.998390,Roll=-89.998062)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_144"
+      SocketName="Muzzle_01"
+      BoneName="hand_r"
+      RelativeLocation=(X=-22.000000,Y=0.000000,Z=0.000000)
+      RelativeRotation=(Pitch=-0.000014,Yaw=-179.998779,Roll=89.998184)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_143"
+      SocketName="Muzzle_02"
+      BoneName="hand_l"
+      RelativeLocation=(X=22.000000,Y=0.000000,Z=0.000000)
+      RelativeRotation=(Pitch=0.000000,Yaw=-0.000000,Roll=89.998184)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_142"
+      SocketName="Root"
+      BoneName="root"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_14"
+      SocketName="FX_Passive"
+      BoneName="spine_03"
+      RelativeLocation=(X=19.114145,Y=-24.702051,Z=-0.000032)
+      RelativeRotation=(Pitch=0.000000,Yaw=-60.000477,Roll=0.000001)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_13"
+      SocketName="FX_EyeTrails_R_02"
+      BoneName="head"
+      RelativeLocation=(X=3.800000,Y=7.210000,Z=-5.700000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_12"
+      SocketName="FX_EyeTrails_R_01"
+      BoneName="head"
+      RelativeLocation=(X=2.198253,Y=10.184108,Z=-3.500000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_11"
+      SocketName="FX_EyeTrails_L_01"
+      BoneName="head"
+      RelativeLocation=(X=2.151023,Y=10.184035,Z=3.600000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_10"
+      SocketName="FX_EyeTrails_L_02"
+      BoneName="head"
+      RelativeLocation=(X=3.800000,Y=7.200000,Z=5.700000)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_1"
+      SocketName="FX_Root"
+      BoneName="root"
+      RelativeRotation=(Pitch=0.000007,Yaw=89.999954,Roll=-0.000417)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_0"
+      SocketName="Muzzle_03"
+      BoneName="spine_01"
+      RelativeLocation=(X=-101.790123,Y=13.153112,Z=0.000000)
+   End Object
+   BoneTree(205)=()
+   VirtualBoneGuid=9314DC51419954F4330074B3B6AD7239
+   Sockets(0)=SkeletalMeshSocket'"SkeletalMeshSocket_1"'
+   Sockets(1)=SkeletalMeshSocket'"SkeletalMeshSocket_142"'
+   Sockets(2)=SkeletalMeshSocket'"SkeletalMeshSocket_0"'
+   Sockets(3)=SkeletalMeshSocket'"SkeletalMeshSocket_155"'
+   Sockets(4)=SkeletalMeshSocket'"SkeletalMeshSocket_148"'
+   Sockets(5)=SkeletalMeshSocket'"SkeletalMeshSocket_150"'
+   Sockets(6)=SkeletalMeshSocket'"SkeletalMeshSocket_149"'
+   Sockets(7)=SkeletalMeshSocket'"SkeletalMeshSocket_152"'
+   Sockets(8)=SkeletalMeshSocket'"SkeletalMeshSocket_154"'
+   Sockets(9)=SkeletalMeshSocket'"SkeletalMeshSocket_143"'
+   Sockets(10)=SkeletalMeshSocket'"SkeletalMeshSocket_151"'
+   Sockets(11)=SkeletalMeshSocket'"SkeletalMeshSocket_153"'
+   Sockets(12)=SkeletalMeshSocket'"SkeletalMeshSocket_144"'
+   Sockets(13)=SkeletalMeshSocket'"SkeletalMeshSocket_147"'
+   Sockets(14)=SkeletalMeshSocket'"SkeletalMeshSocket_145"'
+   Sockets(15)=SkeletalMeshSocket'"SkeletalMeshSocket_2"'
+   Sockets(16)=SkeletalMeshSocket'"SkeletalMeshSocket_146"'
+   Sockets(17)=SkeletalMeshSocket'"SkeletalMeshSocket_3"'
+   Sockets(18)=SkeletalMeshSocket'"SkeletalMeshSocket_4"'
+   Sockets(19)=SkeletalMeshSocket'"SkeletalMeshSocket_5"'
+   Sockets(20)=SkeletalMeshSocket'"SkeletalMeshSocket_6"'
+   Sockets(21)=SkeletalMeshSocket'"SkeletalMeshSocket_7"'
+   Sockets(22)=SkeletalMeshSocket'"SkeletalMeshSocket_8"'
+   Sockets(23)=SkeletalMeshSocket'"SkeletalMeshSocket_9"'
+   Sockets(24)=SkeletalMeshSocket'"SkeletalMeshSocket_12"'
+   Sockets(25)=SkeletalMeshSocket'"SkeletalMeshSocket_13"'
+   Sockets(26)=SkeletalMeshSocket'"SkeletalMeshSocket_11"'
+   Sockets(27)=SkeletalMeshSocket'"SkeletalMeshSocket_10"'
+   Sockets(28)=SkeletalMeshSocket'"SkeletalMeshSocket_14"'
+   Sockets(29)=SkeletalMeshSocket'"SkeletalMeshSocket_16"'
+   Sockets(30)=SkeletalMeshSocket'"SkeletalMeshSocket_15"'
+   Sockets(31)=SkeletalMeshSocket'"SkeletalMeshSocket_33"'
+   SlotGroups(0)=(SlotNames=("UpperBodySlot","FullBodySlot","UpperBody","ArmsAndHead","UpperBody_MeshSpaceAdditive","FullBody","FullBody_YawAdjust","FullBody_InAir","FullBody_OnGround","FullBody_InPlace","UpperBody_InMotion","DefaultSlot"))
+   AnimationNotifies(0)="MeleeFullBody"
+   AnimationNotifies(1)="BP_CameraShake_AnimNotify"
+   AnimationNotifies(2)="BP_MeleeAttack"
+   AnimationNotifies(3)="MeleeUpperBody"
+   AnimationNotifies(4)="SaveAttack"
+   AnimationNotifies(5)="ResetCombo"
+   PreviewAttachedAssetContainer=(AttachedObjects=((AttachedObject=/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Abilities/Ultimate/FX/P_Ult_EyeTrails.P_Ult_EyeTrails,AttachedTo="FX_Head")))
+End Object
